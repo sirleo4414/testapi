@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "Mg Mg",
+    "age" : "24",
+    "city" : "Yangon"
+  },
+  {
+    "name" : "Aung Aung",
+    "age" : "25",
+    "city" : "Myeik"
+  },
+  {
+    "name" : "Su Su",
+    "age" : "24",
+    "city" : "Bokpyin"
+  } 
+]
