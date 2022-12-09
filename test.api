@@ -64,5 +64,11 @@
     "age" : "25",
     "city" : "Bokpyin",
     "image" : "https://user-images.githubusercontent.com/101104553/206637362-3c2269f1-abfc-424f-8645-a5a7e497566e.jpg"
+  },
+  {
+    "name" : "Ko Khant",
+    "age" : "15",
+    "city" : "Myeik",
+    "image" : "https://user-images.githubusercontent.com/101104553/206626882-135d4890-e7c5-44f9-ba01-d49a0ad2b3ab.jpg"
   }
 ]
