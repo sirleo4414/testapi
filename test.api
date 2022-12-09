@@ -15,19 +15,19 @@
     "name" : "Aung Naing Htet",
     "age" : "25",
     "city" : "Myeik",
-    "image" : "https://user-images.githubusercontent.com/101104553/206637380-fbab7008-f053-4ca3-ad9c-b18e843df741.jpg"
+    "image" : "https://user-images.githubusercontent.com/101104553/206626882-135d4890-e7c5-44f9-ba01-d49a0ad2b3ab.jpg"
   },
   {
     "name" : "Nay Zaw Hein",
     "age" : "25",
     "city" : "Tanintharyi",
-    "image" : "https://user-images.githubusercontent.com/101104553/206637425-62662eed-c7bf-4cac-833c-f36c1a3d6f01.png.jpg"
+    "image" : "https://user-images.githubusercontent.com/101104553/206626882-135d4890-e7c5-44f9-ba01-d49a0ad2b3ab.jpg"
   },
   {
     "name" : "Aung Kyaw Htay",
     "age" : "25",
     "city" : "Thayet Chaung",
-    "image" : "https://user-images.githubusercontent.com/101104553/206637450-05bbb5da-2750-41b9-8f2a-a0b940da9f81.png.jpg"
+    "image" : "https://user-images.githubusercontent.com/101104553/206626882-135d4890-e7c5-44f9-ba01-d49a0ad2b3ab.jpg"
   },
   {
     "name" : "Nyein Thet Soe",
@@ -39,30 +39,30 @@
     "name" : "Ei Ei Thu",
     "age" : "25",
     "city" : "Long Lone",
-    "image" : "https://user-images.githubusercontent.com/101104553/206637362-3c2269f1-abfc-424f-8645-a5a7e497566e.jpg"
+    "image" : "https://user-images.githubusercontent.com/101104553/206626882-135d4890-e7c5-44f9-ba01-d49a0ad2b3ab.jpg"
   },
   {
     "name" : "Thazin Oo",
     "age" : "25",
     "city" : "Kyun Su",
-    "image" : "https://user-images.githubusercontent.com/101104553/206637425-62662eed-c7bf-4cac-833c-f36c1a3d6f01.png.jpg"
+    "image" : "https://user-images.githubusercontent.com/101104553/206626882-135d4890-e7c5-44f9-ba01-d49a0ad2b3ab.jpg"
   },
   {
     "name" : "Khine Myo Sint",
     "age" : "25",
     "city" : "Thayet Chaung",
-    "image" : "https://user-images.githubusercontent.com/101104553/206637450-05bbb5da-2750-41b9-8f2a-a0b940da9f81.png.jpg"
+    "image" : "https://user-images.githubusercontent.com/101104553/206637362-3c2269f1-abfc-424f-8645-a5a7e497566e.jpg"
   },
   {
     "name" : "Naw El Jue",
     "age" : "25",
     "city" : "Palaw",
-    "image" : "https://user-images.githubusercontent.com/101104553/206637380-fbab7008-f053-4ca3-ad9c-b18e843df741.jpg.jpg"
+    "image" : "https://user-images.githubusercontent.com/101104553/206626882-135d4890-e7c5-44f9-ba01-d49a0ad2b3ab.jpg"
   },
   {
     "name" : "Ein Kyin Khin",
     "age" : "25",
     "city" : "Bokpyin",
-    "image" : "https://user-images.githubusercontent.com/101104553/206626882-135d4890-e7c5-44f9-ba01-d49a0ad2b3ab.jpg"
+    "image" : "https://user-images.githubusercontent.com/101104553/206637362-3c2269f1-abfc-424f-8645-a5a7e497566e.jpg"
   }
 ]
