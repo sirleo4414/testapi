@@ -1,5 +1,11 @@
 [
   {
+    "name" : "Daw Yu",
+    "age" : "52",
+    "city" : "Myeik",
+    "image" : "https://user-images.githubusercontent.com/101104553/206637362-3c2269f1-abfc-424f-8645-a5a7e497566e.jpg"
+  },
+  {
     "name" : "Thuya Hein",
     "age" : "26",
     "city" : "Palaw",
